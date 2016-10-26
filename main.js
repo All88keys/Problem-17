@@ -4,7 +4,7 @@ var num = 25;
 //function findwords(){
   var str = num.toString();
   var array = str.split("");
-  console.log(str);
+  console.log(array);
   var english = [];
   for(var i = 0; i<array.length; i++){
     switch(array[i]){
