@@ -1,5 +1,5 @@
 
-var num = 1;
+var num = 25;
 
 //function findwords(){
   var str = num.toString();
